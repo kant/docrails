@@ -19,7 +19,7 @@
     -
       name: Active Record Validations
       url: active_record_validations.html
-      description: This guide covers how you can use Active Record validations
+      description: This guide covers how you can use Active Record validations.
     -
       name: Active Record Callbacks
       url: active_record_callbacks.html
@@ -116,7 +116,7 @@
       name: The Rails Initialization Process
       work_in_progress: true
       url: initialization.html
-      description: This guide explains the internals of the Rails initialization process as of Rails 4
+      description: This guide explains the internals of the Rails initialization process as of Rails 4.
     -
       name: Autoloading and Reloading Constants
       url: autoloading_and_reloading_constants.html
